@@ -1,0 +1,25 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+  }
+
+/* CSS styling for the Navigation Bar */
+.navbar {
+    background-color: rgb(77, 76, 76) !important;
+}
+
+.nav li {
+    margin-right: 5px !important;
+}
+
+.nav-item a {
+    color: teal !important;
+    text-decoration-line: underline !important;
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+
+.picText {
+    background-color: teal !important;
+    padding: 10px !important;
+    font-weight: bold !important;
+}

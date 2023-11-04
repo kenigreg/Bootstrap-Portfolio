@@ -1,5 +1,5 @@
 # Gregory's Web Development Portfolio
-The aim of this web page is to present the different projects that I have undertaken in order to showcase my web development skills to potential emoployers. The expected outcome is that employers will be able to access each of the projects that I have developed and assess my suitability for a potential role at their establishment nbased on the skills I have acquired.
+The aim of this web page is to present the different projects that I have undertaken in order to showcase my web development skills to potential employers. The expected outcome is that employers will be able to access each of the projects that I have developed and assess my suitability for a potential role at their establishment nbased on the skills I have acquired.
 
 ## Skills
 The diffrent skills I have acquired includes the following -
