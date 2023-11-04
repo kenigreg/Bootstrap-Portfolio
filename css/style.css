@@ -11,6 +11,10 @@ body {
     margin-right: 5px !important;
 }
 
+ul a:hover {
+    background-color: lightgreen;
+  }
+
 .nav-item a {
     color: teal !important;
     text-decoration-line: underline !important;
@@ -23,3 +27,5 @@ body {
     padding: 10px !important;
     font-weight: bold !important;
 }
+
+
