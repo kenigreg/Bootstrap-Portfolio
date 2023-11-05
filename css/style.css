@@ -12,7 +12,7 @@ body {
 }
 
 ul a:hover {
-    background-color: lightgreen !important;
+    background-color: lightgray !important;
   }
 
 .nav-item a {
