@@ -51,11 +51,29 @@ ul a:hover {
     text-align: center !important;
   }
 
-
   /* CSS styling for the Footer section */
 
   footer ul {
     padding: 50px !important;
     margin-left: 40px !important;
     align-content: space-between !important;
+  }
+ 
+  /* CSS styling for the Work section */
+  .card {
+    border-style: solid !important;
+    border-width: 3px !important;
+    border-color: lightseagreen !important;
+  }
+
+  .card-body h5 {
+    background-color: rgb(149, 240, 236) !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    width: fit-content !important;
+    margin-left: 0 !important;
+  }
+
+  .card-text {
+    font-size: 12px !important;
   }
