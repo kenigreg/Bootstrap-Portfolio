@@ -40,3 +40,13 @@ ul a:hover {
     text-align: justify;
     padding-right: 80px;
   }
+
+  /* CSS styling for the sections elements */
+  section {
+    margin-bottom: 50px;
+  }
+
+  /* CSS styling for the Skills section */
+  .grid-places ul {
+    text-align: center;
+  }
