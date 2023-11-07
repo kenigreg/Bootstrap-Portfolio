@@ -79,9 +79,9 @@ ul a:hover {
 
   /* Applied CSS styling to the Resume section*/
 .text-center img {
-  border-style: solid;
-  border-width: 3px;
-  border-color: lightseagreen;
+  border-style: solid !important;
+  border-width: 3px !important;
+  border-color: lightseagreen !important;
 }
 
   /* applying media query to the CSS styling*/
