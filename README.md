@@ -21,7 +21,9 @@ The projects I have developed includes the following -
 * Run Buddy
 
 ## Mock-Up
-The following mock-up shows the web development page and the different projects I have undertaken:
+The following mock-up shows the web development page and the different projects I have undertaken: 
+
+![Website Image](/images/screencapture-bootstrap_portfolio.png)
 
 ## Deployment
 The application is deployed live at the following [Portfolio Page](https://kenigreg.github.io/Bootstrap-Portfolio/)
